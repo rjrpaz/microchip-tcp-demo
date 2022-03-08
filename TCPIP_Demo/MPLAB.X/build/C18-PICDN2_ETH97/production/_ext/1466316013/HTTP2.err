@@ -1,0 +1,10 @@
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:460:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:463:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:498:Warning [2054] suspicious pointer conversion
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:536:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:537:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:656:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:1458:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:1458:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:1460:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/HTTP2.c:1735:Warning [2066] type qualifier mismatch in assignment

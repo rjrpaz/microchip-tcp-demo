@@ -1,0 +1,22 @@
+../CustomHTTPApp.c:126:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:130:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:157:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:158:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:194:Warning [2054] suspicious pointer conversion
+../CustomHTTPApp.c:215:Warning [2054] suspicious pointer conversion
+../CustomHTTPApp.c:227:Warning [2054] suspicious pointer conversion
+../CustomHTTPApp.c:286:Warning [2054] suspicious pointer conversion
+../CustomHTTPApp.c:296:Warning [2054] suspicious pointer conversion
+../CustomHTTPApp.c:376:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:405:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:509:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:516:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:521:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:528:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:533:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:538:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:573:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:578:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:590:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:605:Warning [2066] type qualifier mismatch in assignment
+../CustomHTTPApp.c:1372:Warning [2066] type qualifier mismatch in assignment

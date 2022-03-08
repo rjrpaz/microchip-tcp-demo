@@ -1,0 +1,3 @@
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/TCP.c:1454:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/TCP.c:4606:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/TCP.c:4619:Warning [2066] type qualifier mismatch in assignment

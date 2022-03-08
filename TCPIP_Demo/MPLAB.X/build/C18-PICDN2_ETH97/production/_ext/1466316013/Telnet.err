@@ -1,0 +1,5 @@
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/Telnet.c:213:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/Telnet.c:225:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/Telnet.c:264:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/Telnet.c:300:Warning [2066] type qualifier mismatch in assignment
+/opt/microchip/microchip_solutions_v2011-07-14-beta/Microchip/TCPIP Stack/Telnet.c:392:Warning [2066] type qualifier mismatch in assignment
